@@ -55,7 +55,7 @@
         android:layout_height="wrap_content"
         android:layout_marginBottom="16dp"
         android:fontFamily="sans-serif-light"
-        android:text="Browser"
+        android:text="Dzikri Rabbani | 1237050027 IF 23 A"
         android:textColor="@color/secondary_text_color"
         android:textSize="20sp"
         android:textStyle="normal"
